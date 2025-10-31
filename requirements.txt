@@ -1,0 +1,25 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Embedding and AI
+ollama>=0.1.0
+sentence-transformers>=2.2.0
+
+# String Matching
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.21.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Data Generation (for examples)
+faker>=19.0.0
+
+# Utilities
+tqdm>=4.65.0
