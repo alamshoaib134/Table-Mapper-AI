@@ -121,7 +121,7 @@ flowchart LR
     C --> G[Boolean column: 75 True, 75 False, 50% true rate]
     D --> H[Text column: 150 unique values,<br/>avg length 23.4,<br/>examples: john@email.com...]
     E --> I[Numerical column: range 30000 to 150000,<br/>mean 89000, std 35000,<br/>examples: 45000, 67000...]
-    F --> J[Date column: range 3650 days<br/>from 2014-01-01 to 2024-01-01,<br/>samples: [2018-05-15...]]
+    F --> J[Date column: range 3650 days<br/>from 2014-01-01 to 2024-01-01,<br/>samples: 2018-05-15...]
     
     G --> K[🧠 Rich Content<br/>Embedding]
     H --> K
@@ -290,28 +290,6 @@ flowchart TD
 
 ---
 
-## 📋 How to Use These Diagrams
-
-1. **Copy the Mermaid code** from any section above
-2. **Paste into Mermaid Live Editor**: https://mermaid.live/
-3. **Export as PNG/SVG** for documentation
-4. **Embed in Markdown** files using:
-   ```markdown
-   ```mermaid
-   [paste diagram code here]
-   ```
-   ```
-
-## 🎯 Diagram Purpose
-
-- **Overall Process Flow**: High-level workflow overview
-- **Embedding Approaches**: Comparison of three main methods
-- **Ensemble Architecture**: Detailed multi-method analysis
-- **Content Analysis**: Data processing pipeline
-- **Performance Selection**: Method selection logic
-- **Technical Architecture**: System components
-- **Visualization Pipeline**: Output generation
-- **End-to-End Workflow**: Complete user journey
 
 These diagrams provide visual documentation for:
 - 👥 **Stakeholders**: Understanding capabilities
